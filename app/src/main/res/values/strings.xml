@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">ChatApp</string>
+    <string name="login">Login</string>
+    <string name="gcp_id">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</string>
+    <string name="enter_phone">Enter phone</string>
+    <string name="phone_should_be_10_digit">Phone should be 10 digit</string>
+    <string name="login_with_google">Login with google</string>
+    <string name="login_with_facebook">Login with facebook</string>
+    <string name="write_message">Write message</string>
+    <string name="the_person_which_you_searching_right_now_still_not_on_this_app_refer_him_to_chat_here">The person which you searching right now. still not on this app, refer him to chat here.</string>
+</resources>
